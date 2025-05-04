@@ -1,0 +1,16 @@
+current directory: /home/vscode/environment/toy_app/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+/home/vscode/.rbenv/versions/3.1.4/bin/ruby -I /home/vscode/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/vscode/environment/toy_app/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250504-36397-xeaudl sitelibdir\=./.gem.20250504-36397-xeaudl clean
+
+current directory: /home/vscode/environment/toy_app/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250504-36397-xeaudl sitelibdir\=./.gem.20250504-36397-xeaudl
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/vscode/environment/toy_app/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250504-36397-xeaudl sitelibdir\=./.gem.20250504-36397-xeaudl install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20250504-36397-xeaudl/debug
