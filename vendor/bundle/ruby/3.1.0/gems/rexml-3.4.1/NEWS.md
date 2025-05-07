@@ -358,7 +358,7 @@
   * Hiroya Fujinami
   * mprogrammer
 
-## 3.2.8 - 2024-05-16 {#version-3-2-8}
+## 3.2.2 - 2024-05-16 {#version-3-2-8}
 
 ### Fixes
 
